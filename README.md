@@ -72,7 +72,7 @@ System Settings → Privacy & Security → Accessibility
 
 - [rubaiSTT](https://huggingface.co/islomov/rubaistt_v2_medium) — Sardor Islomov (o'zbek STT modeli)
 - [whisper.cpp](https://github.com/ggml-org/whisper.cpp) — Georgi Gerganov
-- [uzbek-dictation](https://github.com/MuhammadMirrr/uzbek-dictation) — MuhammadMirrr
+- [uzbek-dictation](https://github.com/kamolbeek/speaker) — Kamoliddin Ashurov (kamolbeek)
 
 ---
 
