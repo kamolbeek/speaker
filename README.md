@@ -1,17 +1,8 @@
 # 🎙️ Kamoliddin Ashurov — Speaker & Tech Innovator
 
-## 👤 Men haqimda
 
-Salom! Men **Kamoliddin Ashurov** — o'zbek texnologiya sohasi vakili, dasturchi va innovator.
+💬 **Bog'lanish:** Telegram: [@ilevel_kamoliddin](https://t.me/ilevel_kamoliddin)
 
-- 💼 **Kasb:** Full-Stack Web Developer | AI Mutaxassisi | Product Manager
-- 🏗️ **Loyiha:** [USTAM](https://ustam.uz) — O'zbekistondagi professional xizmatlar platformasi asoschisi
-- 🌐 **Saytlar:** [AuditPro.uz](https://auditpro.uz) | [NasiyaCalculator.uz](https://nasiyacalculator.uz) | [PortBio.uz](https://portbio.uz)
-- 📍 **Joylashuv:** O'zbekiston
-- 📧 **Email:** kamaliddinashurov@gmail.com
-- 💬 **Telegram:** [@ilevel_kamoliddin](https://t.me/ilevel_kamoliddin)
-- 🔗 **LinkedIn:** [Kamoliddin Ashurov](https://www.linkedin.com/in/kamoliddin-ashurov-a17114321/)
-- 🐙 **GitHub:** [kamolbeek](https://github.com/kamolbeek)
 
 ---
 
