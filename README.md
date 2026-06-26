@@ -1,0 +1,79 @@
+# 🎙️ Kamoliddin Ashurov — Speaker & Tech Innovator
+
+## 👤 Men haqimda
+
+Salom! Men **Kamoliddin Ashurov** — o'zbek texnologiya sohasi vakili, dasturchi va innovator.
+
+- 💼 **Kasb:** Full-Stack Web Developer | AI Mutaxassisi | Product Manager
+- 🏗️ **Loyiha:** [USTAM](https://ustam.uz) — O'zbekistondagi professional xizmatlar platformasi asoschisi
+- 🌐 **Saytlar:** [AuditPro.uz](https://auditpro.uz) | [NasiyaCalculator.uz](https://nasiyacalculator.uz) | [PortBio.uz](https://portbio.uz)
+- 📍 **Joylashuv:** O'zbekiston
+- 📧 **Email:** kamaliddinashurov@gmail.com
+- 💬 **Telegram:** [@ilevel_kamoliddin](https://t.me/ilevel_kamoliddin)
+- 🔗 **LinkedIn:** [Kamoliddin Ashurov](https://www.linkedin.com/in/kamoliddin-ashurov-a17114321/)
+- 🐙 **GitHub:** [kamolbeek](https://github.com/kamolbeek)
+
+---
+
+## 🎙️ RubaiSTT — O'zbekcha Ovozli Yozuv Ilovasi
+
+### Nima bu?
+
+**RubaiSTT Dictation** — macOS uchun o'zbek tilidagi nutqni matnga aylantiruvchi ilova.  
+Istalgan ilovada (Telegram, brauzer, hujjat, xabar) **⌃⌥D** tugmasi bosilganda — gapiring, matn avtomatik yoziladi.
+
+### ✨ Xususiyatlari
+
+| Xususiyat | Tavsif |
+|-----------|--------|
+| 🌐 Tizim bo'ylab | Istalgan ilovada ishlaydi |
+| 🇺🇿 O'zbek tiliga maxsus | `rubaiSTT v2 medium` modeli, lotin alifbosi |
+| ⚡ Metal tezlashtirish | Apple Silicon GPU'da tez ishlaydi |
+| 🔌 To'liq oflayn | Internet kerak emas |
+| 🪶 Yengil | 3 daqiqa ishlatilmasa RAM'dan bo'shaydi |
+
+### 🤖 Qaysi AI ishlatiladi?
+
+- **Model:** [`rubaiSTT v2 medium`](https://huggingface.co/islomov/rubaistt_v2_medium) — Sardor Islomov tomonidan yaratilgan
+- **Arxitektura:** OpenAI Whisper asosida, faqat o'zbek tili uchun maxsus o'qitilgan
+- **Engine:** [whisper.cpp](https://github.com/ggml-org/whisper.cpp) + Apple Metal
+- **Narx:** Bepul, hech qanday API to'lovi yo'q
+
+### 📋 Talablar
+
+- macOS 13+ (Apple Silicon — M1/M2/M3/M4/M5)
+- [Homebrew](https://brew.sh)
+- ~1 GB disk maydoni
+
+### 🚀 O'rnatish
+
+```bash
+git clone https://github.com/MuhammadMirrr/uzbek-dictation.git
+cd uzbek-dictation
+./setup.sh
+```
+
+### 🎯 Ishlatish
+
+1. Istalgan joyda kursorni yozish maydoniga qo'ying
+2. **⌃⌥D** bosing → 🔴 gapiring → **⌃⌥D** yana bosing
+3. Matn o'sha joyga avtomatik yoziladi
+
+### ⚙️ Oxirgi sozlama
+
+```
+System Settings → Privacy & Security → Accessibility
+→ "RubaiSTT Dictation" ni qo'shing va yoqing ✅
+```
+
+---
+
+## 🙏 Minnatdorchilik
+
+- [rubaiSTT](https://huggingface.co/islomov/rubaistt_v2_medium) — Sardor Islomov (o'zbek STT modeli)
+- [whisper.cpp](https://github.com/ggml-org/whisper.cpp) — Georgi Gerganov
+- [uzbek-dictation](https://github.com/MuhammadMirrr/uzbek-dictation) — MuhammadMirrr
+
+---
+
+*© 2026 Kamoliddin Ashurov — Barcha huquqlar himoyalangan*
